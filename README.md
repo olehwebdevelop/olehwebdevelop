@@ -1,4 +1,4 @@
-# Oleg Kozlovets
+# Oleg K.
 
 Frontend Developer focused on building interactive web applications and modern UI experiences.
 
@@ -23,10 +23,16 @@ https://olehwebdevelop.github.io/Chess/
 ### 🛒 Shop Website
 Responsive e-commerce style frontend project with clean UI and interactive components.
 
+🔗 Live Demo  
+https://olehwebdevelop.github.io/Shop/
+
 ---
 
 ### 🌐 Portfolio Website
 Personal portfolio showcasing projects, UI work and frontend development skills.
+
+🔗 Live Demo  
+https://olehwebdevelop.github.io/Portfolio/
 
 ---
 
