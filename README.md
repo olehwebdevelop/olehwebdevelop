@@ -55,3 +55,4 @@ https://olehwebdevelop.github.io/Portfolio/
 ## 📫 Contact
 
 GitHub: https://github.com/olehwebdevelop
+Freelancer: https://www.freelancer.com.ua/u/olehwebdevelop?frm=olehwebdevelop&sb=t
